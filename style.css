@@ -9,6 +9,8 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 
 html, body {
 	font-size: 16px;
+	color: #f3f3f3;
+	font-family: 'Lato', sans-serif;
 }
 
 .clear {
@@ -25,6 +27,7 @@ p {
 	width: 90%;
 	max-width: 800px;
 	margin: 30px auto;
+	color: #444444;
 }
 
 .mainDetails {
@@ -37,6 +40,8 @@ p {
 	font-size: 2.5em;
 	font-weight: 700;
 	margin-bottom: -6px;
+	font-family:'Helvetica', sans-serif;
+	color: #444444;
 }
 
 #name h2 {
@@ -52,7 +57,7 @@ p {
 	width: 12.5%;
 	float: left;
 	margin-right: 30px;
-	border-bottom: ;
+	border-bottom: 2px;
 }
 
 #headshot img {
@@ -67,6 +72,7 @@ p {
 
 #contactDetails {
 	float: right;
+	color: #181818;
 }
 
 #contactDetails ul {
@@ -106,7 +112,8 @@ section:last-child {
 
 .sectionContent {
 	float: right;
-	width: 72.5%;
+	width: 72.5%;	
+	border-bottom: 1px solid #bebdbd;
 }
 
 .sectionTitle h1 {
