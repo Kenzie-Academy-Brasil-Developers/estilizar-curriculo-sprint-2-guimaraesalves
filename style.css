@@ -80,7 +80,6 @@ body {
   font-size: 16px;
   color: #f3f3f3;
   font-family: "Lato", sans-serif;
-  background-color: #aabfec;
 }
 
 .clear {
@@ -103,7 +102,7 @@ p {
 .mainDetails {
   padding: 25px 35px;
   border-bottom: solid;
-  border-color: #ffff;
+  border-color: #cf8a05;
 }
 
 #name h1 {
@@ -111,13 +110,12 @@ p {
   font-weight: 700;
   margin-bottom: -6px;
   font-family: "Helvetica", sans-serif;
-  color: #ffff;
+  color: #444444;
 }
 
 #name h2 {
   font-size: 2em;
   margin-left: 2px;
-  color: #ffff;
 }
 
 #mainArea {
@@ -179,13 +177,13 @@ section:last-child {
 .sectionTitle {
   float: left;
   width: 25%;
-  color: #ffff;
+  color: #cf8a05;
 }
 
 .sectionContent {
   float: right;
   width: 72.5%;
-  border-bottom: 1px solid #ffff;
+  border-bottom: 1px solid #bebdbd;
 }
 
 .sectionTitle h1 {
